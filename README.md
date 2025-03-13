@@ -5,7 +5,7 @@ Hi, I'm Felipe Zurbriggen!
 	</a>
 </h1>
 
-- My name is Felipe, I am from Argentina and I am 20 years old. Welcome to my GitHub home page
+- My name is Felipe, I am from Argentina and I am 21 years old. Welcome to my GitHub home page
 - Front-end development using **HTML, CSS, Javascript, Bootstrap**
 - Backend development using **Python**
 - I’m currently learning **ReactJS**
